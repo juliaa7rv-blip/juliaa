@@ -144,6 +144,14 @@
       <a href="#personajes">Personajes</a>
       <a href="#galeria">Galería</a>
       <a href="#contacto">Contacto</a>
+      <a href="#historia">Historia</a>
+      <a href="#mapa">Mapa</a>
+      <a href="#enemigos">Enemigos</a>
+      <a href="#armas">Armas</a>
+      <a href="#requisitos">Requisitos</a>
+      <a href="#opiniones">Opiniones</a>
+      <a href="#ediciones">Ediciones</a>
+      <a href="#trailer">Tráiler</a>
     </nav>
   </header>
 
@@ -221,22 +229,18 @@
       </p>
     </section>
 
-  </main>
-    <!-- CONTACTO -->
-    </section>
-
     <!-- HISTORIA -->
     <section id="historia">
       <h2>Historia del juego</h2>
       <p>
         Hace siglos, la Luz Antigua protegía el reino de Eclípsia. Pero cuando la Sombra Eterna despertó,
-        el equilibrio se rompió. Ahora, Liora debe viajar por templos olvidados, bosques oscuros y ruinas
+        el equilibrio se rompió. Ahora, Arya debe viajar por templos olvidados, bosques oscuros y ruinas
         antiguas para recuperar los fragmentos de luz y restaurar la paz.
       </p>
       <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1000&q=60" alt="Historia del mundo">
     </section>
 
-    <!-- MAPA DEL MUNDO -->
+    <!-- MAPA -->
     <section id="mapa">
       <h2>Mapa del mundo</h2>
       <p>El reino de Eclípsia está dividido en varias regiones únicas:</p>
@@ -267,17 +271,17 @@
       </div>
     </section>
 
-    <!-- ARMAS Y HABILIDADES -->
+    <!-- ARMAS -->
     <section id="armas">
       <h2>Armas y habilidades</h2>
       <ul>
-        <li><strong>Espada de Luz:</strong> arma principal de Liora.</li>
+        <li><strong>Espada de Luz:</strong> arma principal de Arya.</li>
         <li><strong>Salto espectral:</strong> permite esquivar ataques.</li>
         <li><strong>Rayo solar:</strong> ataque cargado contra enemigos fuertes.</li>
       </ul>
     </section>
 
-    <!-- REQUISITOS DEL SISTEMA -->
+    <!-- REQUISITOS -->
     <section id="requisitos">
       <h2>Requisitos del sistema</h2>
       <ul>
@@ -330,10 +334,10 @@
 
   </main>
 
-
   <footer>
     <p>Videojuego ficticio: Eclipse Eterno.</p>
   </footer>
 
 </body>
 </html>
+
