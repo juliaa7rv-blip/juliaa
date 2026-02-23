@@ -222,108 +222,114 @@
     </section>
 
   </main>
-<!-- HISTORIA -->
-<section id="historia">
-  <h2>Historia del juego</h2>
-  <p>
-    Hace siglos, la Luz Antigua protegía el reino de Eclípsia. Pero cuando la Sombra Eterna despertó,
-    el equilibrio se rompió. Ahora, Liora debe viajar por templos olvidados, bosques oscuros y ruinas
-    antiguas para recuperar los fragmentos de luz y restaurar la paz.
-  </p>
-  <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1000&q=60" alt="Historia del mundo">
-</section>
+    <!-- CONTACTO -->
+    </section>
 
-<!-- MAPA DEL MUNDO -->
-<section id="mapa">
-  <h2>Mapa del mundo</h2>
-  <p>El reino de Eclípsia está dividido en varias regiones únicas:</p>
-  <ul>
-    <li><strong>Bosque Umbrío:</strong> lleno de criaturas oscuras.</li>
-    <li><strong>Templo Solar:</strong> donde se guarda el primer fragmento de luz.</li>
-    <li><strong>Montañas del Eco:</strong> hogar de espíritus ancestrales.</li>
-  </ul>
-  <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1000&q=60" alt="Mapa del mundo">
-</section>
+    <!-- HISTORIA -->
+    <section id="historia">
+      <h2>Historia del juego</h2>
+      <p>
+        Hace siglos, la Luz Antigua protegía el reino de Eclípsia. Pero cuando la Sombra Eterna despertó,
+        el equilibrio se rompió. Ahora, Liora debe viajar por templos olvidados, bosques oscuros y ruinas
+        antiguas para recuperar los fragmentos de luz y restaurar la paz.
+      </p>
+      <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1000&q=60" alt="Historia del mundo">
+    </section>
 
-<!-- ENEMIGOS -->
-<section id="enemigos">
-  <h2>Enemigos</h2>
-  <div class="personajes">
-    <div class="personaje">
-      <h3>Sombra Errante</h3>
-      <p>Un espíritu oscuro que patrulla los bosques.</p>
-    </div>
-    <div class="personaje">
-      <h3>Guardián Caído</h3>
-      <p>Antiguos protectores corrompidos por la oscuridad.</p>
-    </div>
-    <div class="personaje">
-      <h3>Eco Sombrío</h3>
-      <p>Una criatura que imita los movimientos del jugador.</p>
-    </div>
-  </div>
-</section>
+    <!-- MAPA DEL MUNDO -->
+    <section id="mapa">
+      <h2>Mapa del mundo</h2>
+      <p>El reino de Eclípsia está dividido en varias regiones únicas:</p>
+      <ul>
+        <li><strong>Bosque Umbrío:</strong> lleno de criaturas oscuras.</li>
+        <li><strong>Templo Solar:</strong> donde se guarda el primer fragmento de luz.</li>
+        <li><strong>Montañas del Eco:</strong> hogar de espíritus ancestrales.</li>
+      </ul>
+      <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1000&q=60" alt="Mapa del mundo">
+    </section>
 
-<!-- ARMAS Y HABILIDADES -->
-<section id="armas">
-  <h2>Armas y habilidades</h2>
-  <ul>
-    <li><strong>Espada de Luz:</strong> arma principal de Liora.</li>
-    <li><strong>Salto espectral:</strong> permite esquivar ataques.</li>
-    <li><strong>Rayo solar:</strong> ataque cargado contra enemigos fuertes.</li>
-  </ul>
-</section>
+    <!-- ENEMIGOS -->
+    <section id="enemigos">
+      <h2>Enemigos</h2>
+      <div class="personajes">
+        <div class="personaje">
+          <h3>Sombra Errante</h3>
+          <p>Un espíritu oscuro que patrulla los bosques.</p>
+        </div>
+        <div class="personaje">
+          <h3>Guardián Caído</h3>
+          <p>Antiguos protectores corrompidos por la oscuridad.</p>
+        </div>
+        <div class="personaje">
+          <h3>Eco Sombrío</h3>
+          <p>Una criatura que imita los movimientos del jugador.</p>
+        </div>
+      </div>
+    </section>
 
-<!-- REQUISITOS DEL SISTEMA -->
-<section id="requisitos">
-  <h2>Requisitos del sistema</h2>
-  <ul>
-    <li><strong>Procesador:</strong> Intel i5 o equivalente</li>
-    <li><strong>RAM:</strong> 8 GB</li>
-    <li><strong>Gráfica:</strong> GTX 1050 o superior</li>
-    <li><strong>Almacenamiento:</strong> 10 GB libres</li>
-  </ul>
-</section>
+    <!-- ARMAS Y HABILIDADES -->
+    <section id="armas">
+      <h2>Armas y habilidades</h2>
+      <ul>
+        <li><strong>Espada de Luz:</strong> arma principal de Liora.</li>
+        <li><strong>Salto espectral:</strong> permite esquivar ataques.</li>
+        <li><strong>Rayo solar:</strong> ataque cargado contra enemigos fuertes.</li>
+      </ul>
+    </section>
 
-<!-- OPINIONES -->
-<section id="opiniones">
-  <h2>Opiniones de jugadores</h2>
-  <p><em>“Un juego lleno de misterio y emoción. La ambientación es increíble.”</em> — ★★★★★</p>
-  <p><em>“Los combates son fluidos y la historia engancha desde el principio.”</em> — ★★★★☆</p>
-  <p><em>“Me encantó explorar cada región del mapa.”</em> — ★★★★★</p>
-</section>
+    <!-- REQUISITOS DEL SISTEMA -->
+    <section id="requisitos">
+      <h2>Requisitos del sistema</h2>
+      <ul>
+        <li><strong>Procesador:</strong> Intel i5 o equivalente</li>
+        <li><strong>RAM:</strong> 8 GB</li>
+        <li><strong>Gráfica:</strong> GTX 1050 o superior</li>
+        <li><strong>Almacenamiento:</strong> 10 GB libres</li>
+      </ul>
+    </section>
 
-<!-- EDICIONES -->
-<section id="ediciones">
-  <h2>Ediciones del juego</h2>
-  <table style="width:100%; border-collapse: collapse; text-align:left;">
-    <tr>
-      <th style="border-bottom:1px solid #444; padding:8px;">Edición</th>
-      <th style="border-bottom:1px solid #444; padding:8px;">Contenido</th>
-    </tr>
-    <tr>
-      <td style="padding:8px;">Standard</td>
-      <td style="padding:8px;">Juego base</td>
-    </tr>
-    <tr>
-      <td style="padding:8px;">Deluxe</td>
-      <td style="padding:8px;">Juego + Banda sonora + Skin exclusiva</td>
-    </tr>
-    <tr>
-      <td style="padding:8px;">Coleccionista</td>
-      <td style="padding:8px;">Todo lo anterior + Libro de arte digital</td>
-    </tr>
-  </table>
-</section>
+    <!-- OPINIONES -->
+    <section id="opiniones">
+      <h2>Opiniones de jugadores</h2>
+      <p><em>“Un juego lleno de misterio y emoción. La ambientación es increíble.”</em> — ★★★★★</p>
+      <p><em>“Los combates son fluidos y la historia engancha desde el principio.”</em> — ★★★★☆</p>
+      <p><em>“Me encantó explorar cada región del mapa.”</em> — ★★★★★</p>
+    </section>
 
-<!-- TRAILER -->
-<section id="trailer">
-  <h2>Tráiler</h2>
-  <p>Próximamente disponible. Aquí podrás ver el tráiler oficial del juego.</p>
-  <div style="width:100%; height:200px; background:#222; border:1px solid #444; border-radius:6px; display:flex; align-items:center; justify-content:center;">
-    <p style="color:#aaa;">[ Tráiler no disponible ]</p>
-  </div>
-</section>
+    <!-- EDICIONES -->
+    <section id="ediciones">
+      <h2>Ediciones del juego</h2>
+      <table style="width:100%; border-collapse: collapse; text-align:left;">
+        <tr>
+          <th style="border-bottom:1px solid #444; padding:8px;">Edición</th>
+          <th style="border-bottom:1px solid #444; padding:8px;">Contenido</th>
+        </tr>
+        <tr>
+          <td style="padding:8px;">Standard</td>
+          <td style="padding:8px;">Juego base</td>
+        </tr>
+        <tr>
+          <td style="padding:8px;">Deluxe</td>
+          <td style="padding:8px;">Juego + Banda sonora + Skin exclusiva</td>
+        </tr>
+        <tr>
+          <td style="padding:8px;">Coleccionista</td>
+          <td style="padding:8px;">Todo lo anterior + Libro de arte digital</td>
+        </tr>
+      </table>
+    </section>
+
+    <!-- TRAILER -->
+    <section id="trailer">
+      <h2>Tráiler</h2>
+      <p>Próximamente disponible. Aquí podrás ver el tráiler oficial del juego.</p>
+      <div style="width:100%; height:200px; background:#222; border:1px solid #444; border-radius:6px; display:flex; align-items:center; justify-content:center;">
+        <p style="color:#aaa;">[ Tráiler no disponible ]</p>
+      </div>
+    </section>
+
+  </main>
+
 
   <footer>
     <p>Videojuego ficticio: Eclipse Eterno.</p>
