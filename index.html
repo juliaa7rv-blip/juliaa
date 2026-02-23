@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Shadow Quest - Página Oficial</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    /* Reset básico */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body {
+      background-color: #0d0d0d;
+      color: #f2f2f2;
+      line-height: 1.6;
+    }
+
+    header {
+      text-align: center;
+      padding: 30px 10px;
+      background: linear-gradient(135deg, #1a1a1a, #2d2d2d);
+      border-bottom: 2px solid #6a5acd;
+    }
+
+    header h1 {
+      font-size: 2.3rem;
+      color: #b19cff;
+    }
+
+    nav {
+      margin-top: 10px;
+    }
+
+    nav a {
+      color: #c7bfff;
+      text-decoration: none;
+      margin: 0 12px;
+      font-size: 0.95rem;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    main {
+      max-width: 1000px;
+      margin: 20px auto;
+      padding: 0 15px;
+    }
+
+    section {
+      background-color: #1a1a1a;
+      padding: 20px;
+      margin-bottom: 25px;
+      border-radius: 8px;
+      border: 1px solid #333;
+    }
+
+    section h2 {
+      color: #b19cff;
+      margin-bottom: 10px;
+      font-size: 1.4rem;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 12px auto;
+      border-radius: 6px;
+    }
+
+    ul {
+      margin-left: 20px;
+      margin-top: 10px;
+    }
+
+    .personajes {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 15px;
+      margin-top: 10px;
+    }
+
+    .personaje {
+      background-color: #111;
+      padding: 12px;
+      border-radius: 6px;
+      border: 1px solid #333;
+    }
+
+    .personaje h3 {
+      color: #d5caff;
+      margin-bottom: 5px;
+    }
+
+    .galeria {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 10px;
+      margin-top: 10px;
+    }
+
+    .boton {
+      display: inline-block;
+      padding: 10px 18px;
+      background-color: #6a5acd;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 10px;
+    }
+
+    .boton:hover {
+      background-color: #5948c4;
+    }
+
+    footer {
+      text-align: center;
+      padding: 15px;
+      font-size: 0.8rem;
+      color: #aaa;
+      border-top: 1px solid #333;
+      background-color: #0f0f0f;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>Shadow Quest</h1>
+    <p>Un videojuego de aventura y misterio en un mundo lleno de sombras.</p>
+
+    <nav>
+      <a href="#descripcion">Descripción</a>
+      <a href="#caracteristicas">Características</a>
+      <a href="#personajes">Personajes</a>
+      <a href="#galeria">Galería</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </header>
+
+  <main>
+
+    <section id="descripcion">
+      <h2>Descripción del juego</h2>
+      <p>
+        <strong>Shadow Quest</strong> es un videojuego de aventura en tercera persona donde el jugador explora
+        un reino oscuro dominado por criaturas de sombra. Tu misión es recuperar la Luz Antigua y restaurar el equilibrio.
+      </p>
+
+      <img src="https://images.unsplash.com/photo-1605902711622-cfb43c44367f?auto=format&fit=crop&w=1000&q=60" 
+           alt="Imagen del videojuego Shadow Quest">
+    </section>
+
+    <section id="caracteristicas">
+      <h2>Características principales</h2>
+      <ul>
+        <li>Mundo abierto con zonas oscuras y templos antiguos.</li>
+        <li>Combate dinámico con armas mágicas.</li>
+        <li>Misiones secundarias y secretos ocultos.</li>
+        <li>Banda sonora ambiental y misteriosa.</li>
+        <li>Disponible para PC, PlayStation y Xbox.</li>
+      </ul>
+    </section>
+
+    <section id="personajes">
+      <h2>Personajes</h2>
+
+      <div class="personajes">
+
+        <div class="personaje">
+          <h3>Liora</h3>
+          <p>La protagonista. Una guerrera capaz de controlar fragmentos de luz.</p>
+        </div>
+
+        <div class="personaje">
+          <h3>Umbros</h3>
+          <p>El villano principal. Una entidad formada completamente por sombras.</p>
+        </div>
+
+        <div class="personaje">
+          <h3>Kael</h3>
+          <p>Un guía espiritual que ayuda a Liora durante su viaje.</p>
+        </div>
+
+      </div>
+    </section>
+
+    <section id="galeria">
+      <h2>Galería</h2>
+      <div class="galeria">
+        <img src="https://images.unsplash.com/photo-1611605698335-8b1a79cd13e2?auto=format&fit=crop&w=600&q=60" alt="Escena 1">
+        <img src="https://images.unsplash.com/photo-1604079628040-94301bb20e20?auto=format&fit=crop&w=600&q=60" alt="Escena 2">
+        <img src="https://images.unsplash.com/photo-1605902711622-cfb43c44367f?auto=format&fit=crop&w=600&q=60" alt="Escena 3">
+      </div>
+    </section>
+
+    <section id="contacto">
+      <h2>Contacto</h2>
+      <p>Si quieres más información sobre el juego, puedes escribir al equipo:</p>
+
+      <a class="boton" href="mailto:shadowquest@ejemplo.com">Enviar correo</a>
+
+      <p style="margin-top:10px;">
+        Página oficial del estudio (ficticia):  
+        <a href="https://www.example.com" target="_blank">www.example.com</a>
+      </p>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>Página creada como trabajo escolar de Tecnología Digital Aplicada.</p>
+    <p>Videojuego ficticio: Shadow Quest.</p>
+  </footer>
+
+</body>
+</html>
